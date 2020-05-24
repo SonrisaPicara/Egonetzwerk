@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship
+Ego,Valerija,4,1,9
+Ego,Ilka,3,3,1
+Ego,Kevin,3,3,8
+Ego,Nils,2,3,8
+Kevin,Nils,2,3,8
+Ilka,Valerija,1,1,7
